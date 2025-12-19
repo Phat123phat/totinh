@@ -4,8 +4,8 @@ const stars = [];
 const explosions = [];
 const shootingStars = [];
 const fullText = [
-    "Anh yêu em",
-    "Làm người yêu anh nhé?",];
+    "Huyền cục dàng của bé",
+    "🫶",];
 const fontSize = 100;
 const fontFamily = "Arial";
 const lineHeight = 120;
