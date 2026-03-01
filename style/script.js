@@ -4,7 +4,7 @@ const stars = [];
 const explosions = [];
 const shootingStars = [];
 const fullText = [
-    "Huyền cục dàng của bé",
+    "Chị Dương cục dàng của bé",
     "🫶",];
 const fontSize = 100;
 const fontFamily = "Arial";
